@@ -90,7 +90,7 @@ e.g.
 ```js
 mutantCheck(["hello", "Hello"]) // true
 mutantCheck(["Alien", "line"]) // true
-mutantCheck(["Beatrice", "Bearti"]) // false
+mutantCheck(["Beatrice", "Beartifice"]) // false
 ```
 
 ```js
